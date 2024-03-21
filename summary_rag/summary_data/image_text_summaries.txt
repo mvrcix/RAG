@@ -1,0 +1,49 @@
+This document is a declaration of conformity for a Bose Compact Disc Player, model PM-1, sold in the European Union (EU). The manufacturer, Bose Corporation, declares that the product meets the EU's directives and regulations related to electromagnetic compatibility (EMC), electrical safety (LVD), and low voltage equipment. The declaration is signed by the Vice President of Bose Products Europe and includes the authorized representative in the Netherlands.~~~The product is a CD player that emits invisible radiation and has been classified as a Class 1 Laser Product according to EN KLASS 1 LASER API. The user is warned not to adjust or repair the product without proper qualification, and to dispose of used batteries properly. Additionally, the equipment has been tested and found to comply with the limits for a Class B digital device pursuant to Part 15 of the FCC rules, but it may still cause harmful interference in certain installations. If interference occurs, the user is encouraged to try correcting it by reorienting or relocating the receiving antenna, increasing the separation between the equipment and receiver, connecting the equipment to a different circuit, or consulting a dealer or experienced radio/TV technician. Any modifications or adjustments not expressly approved by the manufacturer may void the user's right to operate the equipment.~~~This is a user manual for a Bose CD player model 201. The manual provides information on how to use the product, troubleshooting tips, and contact information for customer service. It also includes safety precautions and maintenance tips to ensure proper functioning of the device. Some key points from the manual include:
+
+* Use headphones at reasonable volumes to avoid hearing damage.
+* Do not use the CD player while driving.
+* If the player does not produce sound, turn the volume control to the lowest level and gradually increase it.
+* Allow the player to warm up in a warm location if brought from a cold one.
+* Use 2 AA batteries or an AC adapter approved by a safety agency.
+* Contact a Bose dealer or customer service for additional help with problems.~~~To use your Bose PM-1 Portable Compact Disc Player, follow these steps:
+
+1. Load the batteries and unlock the Hold switch on the back of the player.
+2. Disable Hold by turning it OFF to prevent accidental operation of the controls.
+3. Enjoy your favorite music or audio content through the player's speakers or headphones.~~~To use the CD player, connect headphones to the jack on the side, insert an audio CD, CD-R, or CD-RW, and use the buttons to navigate through the tracks and play the music. The controls are located on the side of the player and include a "Previous" button, a "Play" button, and an "Eject" button.~~~The instructions for using the CD player are as follows:
+
+1. Open the CD compartment and place a CD inside with the printed side facing upwards.
+2. Close the CD compartment by pressing down gently until it clicks in place.
+3. To play a CD, press the Play/Pause button. The player will continue playing until paused or stopped.
+4. To pause a track, press the Play/Pause button while the CD is playing.
+5. To stop play of the current track, press the Stop button twice while the CD is playing.
+6. If a track is paused, press Stop to display the total number of tracks and total time of the CD. Play remains stopped until the Play/Pause button is pressed again to resume play.~~~The user manual for a CD player describes the various buttons and functions on the device, including play/pause, next/previous track, volume up/down, mute, eject, track skip, scan forward/scan backward, and display features.~~~The Anti-Skip button on a CD player reduces skipping if the player is moved during playback. This feature is enabled by default and can be disabled or reactivated using the Anti-Skip control during Play, Pause, or Stop modes. The Hold switch can also be set to ON to lock the controls of the CD player to prevent accidental changes.~~~The display window of a CD player shows various information related to the playing CD, including the total number of tracks and total time of the CD when it is first loaded. During playback, the track number and elapsed time of the current track are shown. If the CD is paused, the elapsed time continues to be displayed, and the low battery symbol appears and flashes when about 10 minutes of playing time remain. If there is no CD in the player or it's upside-down, an error message displays for 30 seconds before turning off the player.~~~The user manual for a CD player describes five different play modes that can be accessed by pressing the Mode button. These play modes include Normal, Repeat, Repeat All, Intro, and Shuffle. Each play mode is indicated by a specific message on the display to let the user know which mode is currently active.~~~
+To use your CD player safely and effectively, follow these guidelines:
+
+1. Use two AA batteries (LRO6 alkaline) to power the CD player. Make sure not to mix old and new batteries.
+2. Insert the batteries with the positive and negative terminals aligned with the + and — symbols on the case.
+3. Rechargeable NiMH batteries are recommended, but be aware that the low battery symbol may not be a reliable indicator of remaining life.
+4. Cleaning is not necessary, but you can wipe the outside surfaces with a soft cloth as needed.~~~
+To use your CD player safely and effectively, follow these guidelines:
+
+1. Use two AA batteries (LRO6 alkaline) to power the CD player. Make sure not to mix old and new batteries.
+2. Insert the batteries with the positive and negative terminals aligned with the + and — symbols on the case.
+3. Rechargeable NiMH batteries are recommended, but be aware that the low battery symbol may not be a reliable indicator of remaining life.
+4. Cleaning is not necessary, but you can wipe the outside surfaces with a soft cloth as needed.~~~
+Bose provides contact information for its global customer service and support teams across various countries. Here's a summary of the contact information provided:
+
+* Australia: 1800 023 367, www.bose.com.au
+* Belgium/België: 012 390800, 012 390840
+* Canada: 1-800-4652673
+* Denmark: 04343 7777, 04343 7818
+* Germany: 06172-71040, 06172-710419, www.bose.de
+* France: 01-30616363, 01-30614105
+* Ireland: 042-9661988, 042-9661988, www.bose.ie
+* Italy: 066-5670802, 066-5680167
+* Netherlands: 0299 390111, 0299 390109
+* New Zealand (Australian number): 61 2 8737 99567
+* Norway: 62 82 15 60, 62 82 15 69
+* Austria: 01-60404340, 01-604043423
+* Switzerland: 061-9815544, 061-9815502
+* Sweden: 031-878850, 031-274891
+* United Kingdom: 0800 614293, 0870 7414500, 08707414545, www.bose.co.uk
+* United States: 1-888-757-9943, 1-877-289-4366, www.bose.com~~~The document appears to be a product manual for the Bose Wave Radio IV, providing detailed instructions on how to use its various features, troubleshoot common issues, and repair the device if necessary. The manual covers topics such as setting up and using the device, troubleshooting and repairing the device, warranty information, and customer support.~~~

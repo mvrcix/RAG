@@ -6,6 +6,7 @@ from langchain_openai import ChatOpenAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.pipeline import ChatPromptTemplate, StrOutputParser
 
+from langchain.libs.community.langchain_community.chat_models.ollama import ChatOllama
 from vectorstore import retriever 
 from summary_data import image_summaries.txt
 

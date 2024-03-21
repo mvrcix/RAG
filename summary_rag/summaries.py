@@ -34,7 +34,7 @@ def generate_summary(elements):
 
 # IMAGES SUMMARIZATION
 
-def summarize_images(img_path):
+def summarize_images(img_path, prompt):
 
     # Loop through each image in the directory
     for img in natsorted(os.listdir(img_path)):
