@@ -162,3 +162,6 @@ cython_debug/
 *.jpg
 multimodal_rag/sqlite-autoconf-3340100/*
 summary_rag/.chroma/*
+summary_rag/__pycache__/*
+multimodal_rag/__pycache__/*
+multimodal_rag/original_notebook.ipynb
