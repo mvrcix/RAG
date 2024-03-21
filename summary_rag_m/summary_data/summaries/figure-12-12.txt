@@ -1,0 +1,1 @@
+ The image is a simple white page with the word "career" written on it. It does not contain any additional graphics, diagrams, or other elements that might be helpful for developing a Visual Question Answering tool. This plain text can be used to describe career-related topics or provide general guidance for those pursuing their careers.

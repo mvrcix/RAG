@@ -25,7 +25,7 @@ def extract_and_save_images(pdf_path, output_dir):
         image_output_dir_path=output_dir,)
     return images
 
-extract_and_save_images(pdf_path, path)
+# extract_and_save_images(pdf_path, path)
 
 def extract_text_from_image(image):
     # Convert the image to grayscale
@@ -71,7 +71,7 @@ def extract_text_elements(pdf_path):
     return table_elements, text_elements, image_elements
 
 # Extract elements from the PDF
-table_elements, text_elements, image_elements = extract_text_elements(pdf_path)
+# table_elements, text_elements, image_elements = extract_text_elements(pdf_path)
 
 
 # print("Table elements:", table_elements)

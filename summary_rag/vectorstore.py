@@ -7,6 +7,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.schema.document import Document
 from datasets import Dataset
+from langchain_community.llms import Ollama
 
 output_folder = "/home/vqa/masterthesis/ourproject/summary_rag/summary_data"
 
@@ -109,17 +110,26 @@ chain = (
     | prompt
     | llm
     | StrOutputParser())
-from langchain.chains import RetrievalQA
 
+
+# from langchain.chains import RetrievalQA
 # chain = RetrievalQA.from_chain_type(llm,
 #                                   chain_type="stuff",
 #                                   chain_type_kwargs={"prompt": prompt},
 #                                   retriever= retriever
 #  
+
+
 question = "Which battery does the CD player use?"
 answer = chain.invoke("Which battery does the CD player use?")
 print(answer)
 print('lol', retriever.get_relevant_documents(question))
+
+
+
+
+# EVALUATION
+
 
 from ragas.evaluation import evaluate
 
