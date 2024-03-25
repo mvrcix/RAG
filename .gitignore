@@ -165,3 +165,4 @@ summary_rag/.chroma/*
 summary_rag/__pycache__/*
 multimodal_rag/__pycache__/*
 multimodal_rag/original_notebook.ipynb
+summary_rag/cookbook_code.ipynb
